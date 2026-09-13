@@ -1,4 +1,6 @@
 # Original referral operating system
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Exploratory design for A; fee-specific additions apply only to E after legal/sector review. Independently designed from basic consent, matching, follow-up and evidence principles. Not an adopted competitor framework or legal agreement.
 
 ## Referral profile

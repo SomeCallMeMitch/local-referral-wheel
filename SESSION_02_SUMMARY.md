@@ -4,7 +4,12 @@ Date: 2026-09-13. **Exploration, not a final business decision.**
 ## Most important instruction
 The founder wants many concepts played through before building a business. The attached assignment requested concrete recommendations and committed documentation; its pressure to settle the business is superseded by that exploration instruction. Treat this pack as worked alternatives and a reversible benchmark, not approval to launch.
 
-## Founder clarification
+## Latest founder direction
+Vallejo, California and surrounding cities are the starting geography. The founder wants to be the connector. Business profitability is the primary fee-design condition; no founder-mentioned percentage or amount is a fixed input or validated economic result. E2 relationship coordination and E3 partner management now lead exploration on founder-role fit. Dues-only A remains a comparison; C is a secondary alternative, not a recommended founder delivery role.
+
+Read [Vallejo connector and fee design](strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md) first. It develops margin-informed, capped and sliding fee structures, including roofing, solar and smaller service-job examples. All numerical examples are invented illustrations.
+
+## Earlier founder clarification
 Original model: no membership payment, reported 10% fee on deals arising from the relationship. Founder: "my job was to keep everyone on the same page and make sure leads flowed both directions." This is **ongoing relationship stewardship**, not simply paid lead generation. Exact payer, percentage base, historical results and fee duration remain unconfirmed.
 
 ## Recommended direction for exploration
@@ -15,8 +20,8 @@ Keep three front-runners:
 
 Also compared B (owner council), D (hybrid), E1 (individual introduction desk), and additional anchor-funded, customer-paid, event-specific and setup-only concepts. Scores are subjective and close; they do not establish market preference.
 
-## Concrete benchmark if a pilot had to be chosen today
-Eight established residential service firms, one overlapping local service area, narrowly protected scopes, $199/month, no deal fee, one 75-minute meeting monthly, 90 days after recruitment. Minimum six; cap ten. Candidate seats: plumbing, HVAC, electrical, painting, flooring, recurring cleaning, landscape maintenance and junk removal. No city or actual providers selected.
+## Earlier dues-only benchmark — comparison, not current preferred role
+Eight established residential service firms, one overlapping local service area, narrowly protected scopes, $199/month, no deal fee, one 75-minute meeting monthly, 90 days after recruitment. Minimum six; cap ten. Candidate seats: plumbing, HVAC, electrical, painting, flooring, recurring cleaning, landscape maintenance and junk removal. Vallejo and surrounding cities are now the search area; no specific providers or final service boundary selected.
 
 This baseline is easier to interpret and fund than the full hybrid, but **not evidence it is better than the founder's relationship-fee model**. E2 needs historical deal reconstruction and direct partner interviews before comparison can be fair.
 
@@ -41,11 +46,12 @@ Custom software, AI advice, broad KPI dashboards, large curriculum, licensing, e
 Real recurring referral supply; continued value after partners know each other; capacity/quality of providers; operator workload; paid renewals; fee affordability, permissibility and collection; fairness of repeated-deal coverage. Most dangerous: **partners may value being introduced but not continued paid coordination once relationships are established.**
 
 ## Next step / suggested Session 3
-Reconstruct up to ten original relationship-generated deals and the actual work performed. Clarify geography, warm access, preferred founder role and target earnings. Compare A, E2 and C using real situations, then choose one small evidence-gathering test. If exploration is still desired, examine event pods, anchor-funded networks and one-time partner setup before committing to a pilot.
+Reconstruct up to ten original relationship-generated deals and the actual work performed. Geography and connector role are now clarified; learn warm access, provider cost structures and target earnings. Compare A, E2 and C using real situations, then choose one small evidence-gathering test. If exploration is still desired, examine event pods, anchor-funded networks and one-time partner setup before committing to a pilot.
 
 No prospects contacted, money collected, contracts executed or software built. Public research checks competitor structure and specific fee restrictions; it does not validate customer demand.
 
 ## Reading order
+0. [Latest connector, territory and fee-design update](strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md)
 1. [Strategic synthesis](strategy/01_STRATEGIC_SYNTHESIS.md)
 2. [Business configurations](strategy/02_BUSINESS_MODEL_OPTIONS.md)
 3. [Relationship-fee exploration](strategy/08_RELATIONSHIP_FEE_EXPLORATION.md)

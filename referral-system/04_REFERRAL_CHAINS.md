@@ -1,4 +1,6 @@
 # Referral chains: event-centered exploration
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Sixteen examples. Economic attractiveness is qualitative **inference**, not researched deal values or expected fees. Sequence represents possibilities; never assume every customer needs every service. A single event may create multiple provider jobs, but only distinct collected jobs count economically.
 
 | # / trigger | Likely first business | Downstream possibilities | Sequence / timing | Potential conflicts | Attractiveness / initial suitability |

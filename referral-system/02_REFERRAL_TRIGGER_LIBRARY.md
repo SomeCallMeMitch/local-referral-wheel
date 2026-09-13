@@ -1,4 +1,6 @@
 # Trigger library
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 These are original examples for discussion, not promises of demand. Ask permission before any named introduction. No pressure, diagnosis outside competence, or sharing sensitive life-event details.
 
 | Event / listener | Listen-for language | Basic fit questions | Possible recipient | Exclusion / urgency |

@@ -6,7 +6,7 @@ Date: 2026-09-13.
 - Prior Session 01 read all ten root Markdown research files. Rechecked current repository tree: original main commit 47ef8a7120a2eee9994a2977fa028b47745918f8, with those ten files and no strategy pack.
 - Read workspace instructions; sources/ remains read-only. New deliverables are authored outside sources/.
 - Searched available tools for Ruflo/ToolSearch per supplied integration instruction; no matching callable tools were available. Used direct repository/read/write tools. No agents spawned.
-- Asked three optional founder questions. Received clarification on relationship-derived fees and ongoing two-way coordination; exact rate base/payer, geography and preferred future role remain open.
+- Asked three optional founder questions. Received clarification on relationship-derived fees and ongoing two-way coordination; exact rate base/payer remained open. A later clarification confirmed Vallejo/surrounding cities, connector role, flexible sliding fees and recipient profitability as the design priority.
 - Researched primary competitor pages and targeted fee restrictions. Did not use third-party anecdotes as facts or copy proprietary operating materials.
 
 ## Reasoning stages
@@ -48,7 +48,10 @@ Date: 2026-09-13.
 | Continuity | SESSION_02_SUMMARY.md and this log |
 
 ## Known limits
-No customer research, local provider verification or historical transaction records obtained. No confirmed jurisdiction. No legal clearance. Pricing, workloads, scores and decision thresholds remain assumptions. Competitor offers are provider descriptions, not independent outcome studies. A local BNI dues URL redirected; no applicable price invented. The original wheel's 10% rate must not be assumed to mean first-job revenue; the documents distinguish that hypothetical scenario from founder history.
+No customer research, local provider verification or historical transaction records obtained. California is confirmed as the starting jurisdiction; fee arrangements are not cleared. No legal clearance. Pricing, workloads, scores and decision thresholds remain assumptions. Competitor offers are provider descriptions, not independent outcome studies. A local BNI dues URL redirected; no applicable price invented. The original wheel's 10% rate must not be assumed to mean first-job revenue; the documents distinguish that hypothetical scenario from founder history.
 
 ## Next chat protocol
 Read the summary, E2 exploration and economics first. Ask for missing historical details only if still needed. Update evidence/decisions with dates. Do not treat detailed pilot documents as founder approval. Preserve this exploratory set and original research; revise recommendations transparently when new evidence arrives.
+
+## Follow-up revision: Vallejo, connector role and flexible fees
+Added strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md. Updated the entry-point summary and placed controlling direction notes in the earlier working documents. Shifted founder-fit exploration toward E2/E3; retained previous prices only as comparison examples. Developed a recipient affordability ceiling, marginal sliding-scale mechanics and distinct roofing/solar/smaller-job illustrations, with operator viability also required. Checked CSLB solar/HIS guidance and Solano County city context. No outreach performed; original ten research files remain untouched.

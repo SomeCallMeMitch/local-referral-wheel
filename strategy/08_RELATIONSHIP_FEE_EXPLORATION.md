@@ -1,7 +1,9 @@
 # Ongoing relationship stewardship: the founder's original model
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Founder clarification during Session 02: "i got paid on any deal that came from the relationship my job was to keep everyone on the same page and make sure leads flowed both directions".
 
-**Founder evidence:** this was an ongoing relationship-coordination role with deal-linked compensation, not merely selling one introduction. The founder also reports a 10% fee and no partner membership payment. We still do not know the precise 10% basis, who paid, actual volumes/collections, duration, treatment of old customers, termination rights, geography or founder hours.
+**Founder evidence:** this was an ongoing relationship-coordination role with deal-linked compensation, not merely selling one introduction. The founder also reports a 10% fee and no partner membership payment. We still do not know the precise 10% basis, who paid, actual volumes/collections, duration, treatment of old customers, termination rights or founder hours. Geography is now Vallejo and nearby cities; founder role is connector. The mentioned 10% is context only, not a hard model input.
 
 ## Why this deserves its own branch
 The product can be the continued operation of commercial partnerships. Members do not necessarily buy meetings, coaching, lead lists or software. The operator keeps opportunities visible, aligns expectations, resolves dropped handoffs and maintains reciprocal usefulness. This may be closer to a fractional partnerships manager than a chapter leader.

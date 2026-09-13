@@ -1,4 +1,6 @@
 # Customer discovery before selling
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Goal: understand actual behavior and choose among A, E and C. No outreach has been conducted. Interview 12 qualified owners across likely sources/recipients; include at least four outside close friends to reduce politeness bias. Ask permission to take notes. Do not collect customer-identifying data unnecessarily.
 
 ## Sixteen questions

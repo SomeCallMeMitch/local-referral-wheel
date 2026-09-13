@@ -1,10 +1,12 @@
 # Open questions and next-session boundaries
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 ## Founder questions asked this session
 1. Who paid the original 10% and on what basis: first-job collected revenue, profit, or recurring revenue?
 2. What geography and warm business-owner relationships are available?
 3. Which work is enjoyable: partner/deal development, council facilitation, or implementation?
 
-Founder answered that payment applied to any deal from the relationship and the ongoing job was keeping partners aligned and leads flowing both directions. This clarified the service role and broad coverage, but not the precise percentage basis/payer. Other questions remain open. No location inferred from device timezone.
+Founder answered that payment applied to any deal from the relationship and the ongoing job was keeping partners aligned and leads flowing both directions. This clarified the service role and broad coverage, but not the precise percentage basis/payer. The founder subsequently confirmed Vallejo, California and surrounding cities, with a connector role. They also emphasized flexible/sliding fees and recipient profitability over any stated percentage. Warm access, actual costs and fee terms remain open.
 
 ## Questions that most change the model
 - Was the old wheel operational, proposed, or partly tested? How many referrals, wins, invoices, payments and hours?

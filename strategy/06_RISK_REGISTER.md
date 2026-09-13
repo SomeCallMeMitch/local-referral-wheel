@@ -1,4 +1,6 @@
 # Pre-mortem: failed after 18 months
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Scenario, not forecast. Scores 1–5: probability P (higher more likely), impact I (higher worse), detection difficulty D (higher harder to detect early). Priority = P×I×D; estimates are subjective. Sort by priority when choosing attention, not by implied precision. Top six mitigations follow.
 
 | # | Group | Failure cause | P | I | D | Priority |

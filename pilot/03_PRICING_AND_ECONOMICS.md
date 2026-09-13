@@ -1,4 +1,6 @@
 # Pricing and unit economics
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 All figures USD, assumptions dated 2026-09-13. No customer willingness-to-pay evidence. Membership and deal-desk businesses are modeled separately. No software/licensing revenue supports these calculations.
 
 ## A: steady-state dues-only circle

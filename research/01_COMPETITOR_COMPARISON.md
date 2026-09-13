@@ -1,4 +1,6 @@
 # Competitor and substitute comparison
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Reviewed 2026-09-13. Primary public sources describe competitors' offers; they do not independently validate outcomes or our differentiation. Prices vary by geography/program. No local market selected, so no local price claims. Conceptual substitute rows are inference, not claims about every provider.
 
 | Buyer alternative | Why buy it / observable structure | Where it is stronger | Why consider our A/E/C instead | Pricing evidence |

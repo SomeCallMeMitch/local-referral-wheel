@@ -1,4 +1,6 @@
 # Founding category architectures
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Recommendation: explore homeowner service architecture first, subject to warm access. These are candidate seats, not recruited businesses. No specific city or ticket estimates have been researched. Ticket categories are relative planning assumptions: small < $1k; medium $1k–$5k; large > $5k collected first job; recurring value separate. Actual ranges vary widely.
 
 ## Architecture 1: homeowner maintenance and improvement

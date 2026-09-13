@@ -1,4 +1,6 @@
 # Credible value measurement
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Manual private reports first. **Attribution** asks where a job came from; **incrementality** asks what would have happened without the service; **profit** asks what remains after relevant costs. A confirmed source does not prove the other two.
 
 ## Evidence tiers

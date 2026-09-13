@@ -1,4 +1,6 @@
 # Session 02: strategic synthesis
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Date: 2026-09-13. Status: exploratory recommendations, not an approved business plan.
 
 ## Authority and evidence
@@ -6,7 +8,7 @@ The founder's latest instruction takes precedence over the attached execution br
 
 Labels throughout: **Evidence** = founder report, inspected repository, or cited public source (identified separately); **Inference** = reasoning from those inputs; **Assumption** = unvalidated numerical or behavioral premise; **Recommendation** = reversible next choice. Numerical scores and thresholds are judgment, not measured probabilities.
 
-Founder evidence: the original wheel charged partners no membership and used a 10% referral fee. The founder clarified that fees applied to deals arising from the relationship and that their job was ongoing coordination to keep leads flowing both directions. This supports a relationship-stewardship model, not just an introduction desk. No deal records, exact fee basis, collection history, or profitability were supplied. Do not describe it as a validated business. A small payment to create commitment is attractive to the founder, not a constraint. Geography, warm network and exact fee basis remain unanswered; preferred future founder role is still open, though the historical role was partnership coordination.
+Founder evidence: the original wheel charged partners no membership and used a 10% referral fee. The founder clarified that fees applied to deals arising from the relationship and that their job was ongoing coordination to keep leads flowing both directions. This supports a relationship-stewardship model, not just an introduction desk. No deal records, exact fee basis, collection history, or profitability were supplied. Do not describe it as a validated business. A small payment to create commitment is attractive to the founder, not a constraint. Vallejo and surrounding cities are the starting geography; connector is the chosen founder role. Warm network and exact fee basis remain open. No numerical example from the founder is an economic assumption or fixed rate.
 
 ## The opportunity, reconstructed
 Owners do not need another repository of growth advice. A plausible job is getting suitable work from trusted relationships without personally maintaining every partnership or chasing every introduction. A separate job is completing neglected revenue improvements. A third is making difficult owner decisions with credible peers. These may be three businesses, not one offer.
@@ -21,7 +23,7 @@ Join because: "I want a dependable source of suitable jobs and trusted people to
 3. Use B (advisory) and D (hybrid) as meaningful alternatives, not inevitable upgrades.
 4. Run discovery before selling. The concrete pilot documents are a worked example, not launch authorization.
 
-**Provisional starting configuration if forced to choose today:** A, a managed referral circle of eight established residential service owners in one overlapping service area, $199/month, no transaction fee, one 75-minute monthly meeting, manual follow-up. Six is the launch floor; ten the pilot cap. Start with eight complementary home-maintenance/improvement specialties, not a broad real-estate-finance chapter. Geography and category rules require local confirmation.
+**Earlier dues-only comparison configuration, superseded as the leading founder-fit option by E2/E3:** A, a managed referral circle of eight established residential service owners in one overlapping service area, $199/month, no transaction fee, one 75-minute monthly meeting, manual follow-up. Six is the launch floor; ten the pilot cap. Start with eight complementary home-maintenance/improvement specialties, not a broad real-estate-finance chapter. Geography and category rules require local confirmation.
 
 This is a benchmark for learning, not a dismissal of pay-per-deal. Model E becomes preferable if the founder can repeatedly maintain productive relationships or materially coordinate incremental opportunities, partners accept collectible fees, margins support them, and the specific activities and payment arrangements are permissible. A lower base payment plus a success fee is a serious E variant.
 

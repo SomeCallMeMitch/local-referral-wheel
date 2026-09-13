@@ -1,4 +1,6 @@
 # Future MVP: challenge the need for an app
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 The original 12-entity blueprint may be a future domain map. It is too large as a commitment before member behavior exists.
 
 | Must track manually now | Worth building after validation | Probably unnecessary until scale |

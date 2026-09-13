@@ -1,4 +1,6 @@
 # Pilot data requirements
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Do not build software. This is a minimal record specification for a future manual pilot.
 
 | Must track manually | Practical existing tool | Access / retention |

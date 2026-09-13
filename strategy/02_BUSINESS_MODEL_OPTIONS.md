@@ -1,4 +1,6 @@
 # Business model options
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 All sizes, prices, hours and ratings are **assumptions for comparison**, not market quotes. Hours are steady-state monthly operator hours, excluding initial setup; acquisition is discussed separately. A is the comparison baseline, not a settled destination.
 
 ## Five distinct businesses

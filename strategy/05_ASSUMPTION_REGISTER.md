@@ -1,4 +1,6 @@
 # Assumption register
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 All thresholds below are proposed management decisions, not industry benchmarks or statistical proof. Linked stage gates in pilot/04 and pilot/05 govern the baseline A pilot. No customer tests have yet run.
 
 | ID | Priority | Assumption / evidence status | Practical test | Continue / change threshold | Owner / timing |
@@ -9,7 +11,7 @@ All thresholds below are proposed management decisions, not industry benchmarks 
 | C4 | Critical | Recipients deliver safely and promptly; untested | Check references/licenses where relevant; timestamp all handoffs | >=90% acknowledgment within one business day; repeated failures suspend routing | Coordinator, continuous |
 | C5 | Critical | A pays for founder time; modeled only | Log all work including recruiting and disputes | Steady-state after costs >=$50/operator hour by month 3; below $35 redesign | Founder |
 | C6 | Critical | 90-day value supports renewal; no evidence | Offer same documented continuation terms at day 75; collect day-90 payment | >=6 of 8 renew; 4–5 revise; <=3 stop current format | Founder |
-| C7 | Critical, E | Specific fee model permitted; unknown geography/activities | Review payer, sector, licenses, services, contract and jurisdiction with qualified local counsel | Proceed with fees only on cleared combination; no clarity means dues-only or another segment | Founder before fee contracts |
+| C7 | Critical, E | Specific fee model permitted in California; exact activities/arrangement unreviewed | Review payer, sector, licenses, services, contract and jurisdiction with qualified local counsel | Proceed with fees only on cleared combination; no clarity means dues-only or another segment | Founder before fee contracts |
 | C8 | Critical, E | 10% or lower fee leaves recipient attractive contribution; no records | Obtain 5 anonymized real job economics; simulate 10%, 5%, fixed fee | At least 3 support positive contribution after fee, acquisition and delivery costs and would accept terms | Founder before E pilot |
 | C9 | Critical, E | Fees are collectible without destroying trust | Follow 3 permissible deals through payment and reconciliation | All 3 reconciled; >=90% of due fee dollars collected within 30 days in expanded pilot | Operator |
 | C10 | Critical, E | Enough supply exists to fund fixed work | Log sources and funnel for 30 days; model at actual lag | Credible path to computed break-even, diversified sources; no extrapolation from one large win | Founder |

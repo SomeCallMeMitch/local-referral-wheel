@@ -1,4 +1,6 @@
 # Module decisions and bounded implementation
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 Status: recommendations for baseline A only. E/C can change placement. Value/revenue/retention ratings are hypotheses (H/M/L); evidence is conceptual unless specified. Remove means from the baseline, not permanently forbidden.
 
 | Module | Problem / member value | Complexity | Revenue / retention | Dependencies | Evidence | Placement | Unanswered question |

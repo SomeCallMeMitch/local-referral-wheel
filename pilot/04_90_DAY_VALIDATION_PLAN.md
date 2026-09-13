@@ -1,4 +1,6 @@
 # Validation plan: exploration followed by one selected pilot
+
+> Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.
 These are proposed decision rules, not evidence or industry norms. Timing: prelaunch discovery/recruitment occurs BEFORE 90 delivery days. Do not call week-12 renewal a 90-day membership if recruitment consumed the first month.
 
 ## Stage 0: explore before selecting
