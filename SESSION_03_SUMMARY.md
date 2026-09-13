@@ -2,6 +2,12 @@
 
 Date: 2026-09-13. Session 03 is complete through `session-03/12_TEST_PORTFOLIO.md`. This summary synthesizes the completed Session 03 research; it does not claim validated demand, legal clearance, signed partners, audited historical economics, or tested pricing.
 
+## Founder correction — current governing direction (2026-09-13)
+
+Testing is premature. The founder has not chosen a model, accepted these rankings, or decided that the project direction has changed. Session 03 is complete as a set of research documents; it is not a completed founder decision or a finding of test readiness.
+
+The analysis below is preserved as the original Session 03 recommendation for review. Statements such as "enough evidence" for a paid test, "strongest current recommendation," "TEST NOW," and "decisions" are provisional analyst judgments, not approved next steps. The test portfolio is a deferred reference. The founder wants to understand the options and their pluses/minuses and continue research before considering actual testing. This correction takes precedence over conflicting language below and in linked documents.
+
 ## Executive conclusion
 
 There is enough evidence to justify **one small paid real-world test**, but not enough evidence to justify launching a full Referral Wheel.
@@ -157,24 +163,17 @@ The test succeeds if a buyer pays a real project fee, both firms complete the op
 
 The test should be killed or materially redesigned if firms like the idea but will not pay for the work, if no real customer-overlap triggers appear, if champions lack authority, or if all useful activity still depends on founder-level participation.
 
-# What Session 4 should focus on
+# Future research sequence — proposed, not started
 
-Session 4 should **not** be another broad market-research session and should not restart comparison of every business model.
+The original handoff proposed Session 4 as paid-pilot preparation and discouraged broad comparison. That recommendation is superseded by the founder's research-first direction. No numbered Sessions 5 onward were defined in the inspected repository; the stages below are a proposed sequence, not a previously agreed roadmap.
 
-It should be a tightly scoped **real-world test preparation and evidence design session** around the first Partnership Transition / Activation pilot.
+1. **Options review:** consolidate existing Session 02/03 alternatives into a readable comparison of buyer, service, payment, founder's daily role, advantages, disadvantages, recurring value, economics, scale potential and evidence gaps. Keep wheel and non-membership options visible; distinguish business models from pricing variants and scale paths. Present provisional rankings with reasons and conditions that could reverse them.
+2. **Targeted comparative research:** after founder review, investigate unresolved questions that could change the comparison. Include overlooked alternatives and counterarguments to the preferred models. Do not constrain research to the activation-service recommendation.
+3. **Comparative economics and feasibility:** assess the surviving options on consistent assumptions, recipient profitability, acquisition and operating effort, founder dependence, legal/activity boundaries and downside scenarios. Separate public evidence, founder reports, assumptions and unknowns.
+4. **Founder decision review:** present the plus/minus tradeoffs and remaining uncertainty. The founder can request more research, select a shortlist, defer or reject options; no test is presumed.
+5. **Validation design only when requested:** after the founder explicitly decides research has progressed far enough, scope any prospective test. Actual outreach or pilot execution requires explicit authorization.
 
-Recommended Session 4 questions:
-
-1. What exact buyer profile has the strongest reason to purchase a partnership-transition project?
-2. What qualifies as an existing/dormant partnership versus a cold business-development target?
-3. What interview/discovery questions identify authority, trust, customer overlap, and existing leakage without leading the respondent?
-4. What is the minimum paid offer and scope that tests willingness to pay without overbuilding delivery?
-5. What sponsor/champion operating protocol should the pilot use?
-6. What data should be captured before, during, and after the 30–45 day test?
-7. What legal/privacy/contract boundaries apply to that exact ordinary-B2B service description?
-8. What objective branch sends the next test toward portfolio management, handoff reliability, a finite-only model, or abandonment?
-
-Astra should only be used for narrow external questions that cannot be answered from the repo or the live pilot design. Sol should continue orchestrating the sequence and challenge each result before another expensive research session is opened.
+Do not start Session 4 under this handoff alone. The immediate authorized work was roadmap inspection and preservation of the founder's direction.
 
 # Direct answers to the Session 03 strategic questions
 

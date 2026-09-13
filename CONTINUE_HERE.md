@@ -1,6 +1,12 @@
 # Continue here — portable Session 03 handoff
 Updated 2026-09-13. Repository: SomeCallMeMitch/local-referral-wheel. No prior chat, local attachments or account memory required.
 
+## Latest founder direction — research first (2026-09-13)
+
+Testing is premature. The founder has not selected a business model or accepted the Session 03 rankings. Those rankings, including TEST NOW / KEEP ALIVE / DROP FOR NOW, are provisional analyst judgments, not founder decisions or authorization to prepare or run a pilot. This direction overrides conflicting test-first language throughout the repository, including older assignments and pilot plans.
+
+The immediate need is a clear side-by-side account of the options, their pluses/minuses, evidence, uncertainties, economics and founder-role fit, followed by further research where needed. Do not start Session 4 automatically. Do not prepare or conduct outreach, paid tests or pilots until the founder explicitly chooses to advance to that stage. Session 03 document completion does not establish research sufficiency or readiness for testing.
+
 ## Instructions and authority
 Read session-03/00_ASSIGNMENT.md for the complete assignment. Latest founder priorities: based in Vallejo CA, open to surrounding cities; role is connector/ongoing partnership operator, not primarily coach; small tightly connected groups; no fixed fee or historical number; receiving-business profitability first. Explore several businesses, including models without membership. Save each completed piece into the repo. Do not contact prospects, build software, copy proprietary materials, or treat anecdote as audited data.
 
@@ -25,7 +31,7 @@ Session 03 is complete. Do not automatically begin Session 4; use the scope in S
 
 ## Resume procedure
 1. Read this file, the assignment, 01 reconstruction and completed analysis relevant to the next incomplete part.
-2. Inspect current repository main HEAD; preserve existing files and concurrent edits. Continue first incomplete piece, committing each piece and updating this checklist. If all complete, use Session 4 scope in SESSION_03_SUMMARY.md.
+2. Inspect current repository main HEAD; preserve existing files and concurrent edits. Continue first incomplete piece, committing each piece and updating this checklist. If all complete, stop and report status. Further research requires a founder-directed scope; the former pilot-preparation scope is superseded.
 3. Research files contain source links, access dates and limitations. Recheck time-sensitive claims when needed. Do not restart all research or reuse old Session 02 concept letters without identifying the session.
 4. Distinguish founder report, public provider/regulator evidence, inference and hypothetical numbers. No evidence of signed local partners, deposits, validated prices, legal clearance or audited historical economics.
 5. The latest commit touching this file is the checkpoint. Git history identifies previous checkpoints. Do not assume access to tools/credentials from the old account; connect GitHub or work from an authorized checkout. Never place credentials in the repository.
