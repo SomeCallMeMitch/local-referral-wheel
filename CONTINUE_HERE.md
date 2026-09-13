@@ -18,8 +18,10 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - COMPLETE: session-03/09_OPERATOR_ECONOMICS.md
 - COMPLETE: session-03/10_AI_AND_SAAS_LEVERAGE.md
 - COMPLETE: session-03/11_OUTSIDE_THE_BOX_MODELS.md
-- NOT YET COMPLETE: session-03/12_TEST_PORTFOLIO.md
-- NOT YET COMPLETE: SESSION_03_SUMMARY.md (13 strategic answers and final synthesis).
+- COMPLETE: session-03/12_TEST_PORTFOLIO.md
+- COMPLETE: SESSION_03_SUMMARY.md (13 strategic answers and final synthesis).
+
+Session 03 is complete. Do not automatically begin Session 4; use the scope in SESSION_03_SUMMARY.md only after founder review.
 
 ## Resume procedure
 1. Read this file, the assignment, 01 reconstruction and completed analysis relevant to the next incomplete part.
@@ -40,3 +42,4 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - Session 03 checkpoint 9: model five concepts through staffing and cash shocks
 - Session 03 checkpoint 10: separate useful workflow support from automation claims
 - Session 03 checkpoint 11: invent eight adjacent businesses and a transition-service entry
+- Session 03 checkpoint 12: rank the test portfolio, complete strategic synthesis and stop before Session 4
