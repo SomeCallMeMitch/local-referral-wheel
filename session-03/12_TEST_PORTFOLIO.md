@@ -1,3 +1,4 @@
+> **Current project scope — Session 4 (2026-09-13):** This is historical reference material. The project evaluates business options; all testing means hypothetical scenarios and simulations. Real-world pilots, outreach, interviews, deposits, recruitment and launch preparation are outside scope, not merely postponed. No model is selected. Standalone software is explored now without a service-first prerequisite. Conflicting instructions below are inactive. See [current handoff](../CONTINUE_HERE.md) and [Session 4 summary](../SESSION_04_SUMMARY.md).
 # 12 — Test portfolio: what deserves real-world validation
 
 Status: completed 2026-09-13. This file synthesizes Session 03 only; it does not add new market research. No prospects were contacted, no software was built, and no legal/commercial arrangement was approved in this session.

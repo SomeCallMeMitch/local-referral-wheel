@@ -1,3 +1,4 @@
+> **Current project scope — Session 4 (2026-09-13):** This is historical reference material. The project evaluates business options; all testing means hypothetical scenarios and simulations. Real-world pilots, outreach, interviews, deposits, recruitment and launch preparation are outside scope, not merely postponed. No model is selected. Standalone software is explored now without a service-first prerequisite. Conflicting instructions below are inactive. See [current handoff](../CONTINUE_HERE.md) and [Session 4 summary](../SESSION_04_SUMMARY.md).
 # Pilot data requirements
 
 > Latest direction (2026-09-13): Vallejo, California and surrounding cities; founder role is connector; every fee/amount remains illustrative, with participating-business profitability first. See [current connector and fee-design update](../strategy/09_VALLEJO_CONNECTOR_AND_FEE_DESIGN.md). This update overrides conflicting earlier defaults.

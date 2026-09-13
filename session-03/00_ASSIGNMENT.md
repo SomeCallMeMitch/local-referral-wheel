@@ -1,3 +1,4 @@
+> **Current project scope — Session 4 (2026-09-13):** This is historical reference material. The project evaluates business options; all testing means hypothetical scenarios and simulations. Real-world pilots, outreach, interviews, deposits, recruitment and launch preparation are outside scope, not merely postponed. No model is selected. Standalone software is explored now without a service-first prerequisite. Conflicting instructions below are inactive. See [current handoff](../CONTINUE_HERE.md) and [Session 4 summary](../SESSION_04_SUMMARY.md).
 You are continuing work in this repository:
 
 https://github.com/SomeCallMeMitch/local-referral-wheel

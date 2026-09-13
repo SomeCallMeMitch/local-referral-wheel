@@ -1,3 +1,4 @@
+> **Session 4 governing purpose (2026-09-13):** This project evaluates and creates business options so the founder can understand what he could build and operate. All testing means hypothetical situations, simulations, scenario analysis and economic stress tests. Real-world pilots, outreach, interviews, deposits, customer recruitment and launch preparation are outside this project's scope—not merely postponed. No business model has been selected. Session 3 rankings are provisional analyst opinions; partnership transition is one candidate. Explore standalone software now alongside services and networks, without requiring prior service operation or validation. Do not choose a business, implement software or advance into real-world testing. This direction overrides conflicting historical instructions below and in linked files.
 # Session 02 summary — start here next chat
 Date: 2026-09-13. **Exploration, not a final business decision.**
 

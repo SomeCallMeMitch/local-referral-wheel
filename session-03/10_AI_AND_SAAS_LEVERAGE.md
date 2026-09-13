@@ -1,3 +1,4 @@
+> **Current project scope — Session 4 (2026-09-13):** This is historical reference material. The project evaluates business options; all testing means hypothetical scenarios and simulations. Real-world pilots, outreach, interviews, deposits, recruitment and launch preparation are outside scope, not merely postponed. No model is selected. Standalone software is explored now without a service-first prerequisite. Conflicting instructions below are inactive. See [current handoff](../CONTINUE_HERE.md) and [Session 4 summary](../SESSION_04_SUMMARY.md).
 # 10 — Software and AI leverage
 2026-09-13. No software built. Estimates below are hypotheses to measure with a stopwatch, not product claims. Software can preserve ownership, detect stale records and calculate agreed fees. It cannot supply sponsor commitment, client trust, permission, recipient capacity or willingness to pay.
 
