@@ -13,7 +13,7 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - COMPLETE: session-03/04_SCENARIO_STRESS_TESTS.md
 - COMPLETE: session-03/05_FATAL_FLAWS_AND_MITIGATIONS.md
 - COMPLETE: session-03/06_LOCAL_WHEEL_ARCHITECTURES.md
-- NOT YET COMPLETE: session-03/07_LOCAL_MARKET_REALITY_CHECK.md
+- COMPLETE: session-03/07_LOCAL_MARKET_REALITY_CHECK.md
 - NOT YET COMPLETE: session-03/08_CALIFORNIA_COMPENSATION_BOUNDARIES.md
 - NOT YET COMPLETE: session-03/09_OPERATOR_ECONOMICS.md
 - NOT YET COMPLETE: session-03/10_AI_AND_SAAS_LEVERAGE.md
@@ -35,3 +35,4 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - Session 03 checkpoint 4: fifty scenario branches and verified tail arithmetic
 - Session 03 checkpoint 5: classify twenty-two failure mechanisms
 - Session 03 checkpoint 6: rank four Vallejo-area architectures
+- Session 03 checkpoint 7: document observed local candidate pools and research limits
