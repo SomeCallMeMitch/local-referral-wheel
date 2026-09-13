@@ -15,7 +15,7 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - COMPLETE: session-03/06_LOCAL_WHEEL_ARCHITECTURES.md
 - COMPLETE: session-03/07_LOCAL_MARKET_REALITY_CHECK.md
 - COMPLETE: session-03/08_CALIFORNIA_COMPENSATION_BOUNDARIES.md
-- NOT YET COMPLETE: session-03/09_OPERATOR_ECONOMICS.md
+- COMPLETE: session-03/09_OPERATOR_ECONOMICS.md
 - NOT YET COMPLETE: session-03/10_AI_AND_SAAS_LEVERAGE.md
 - NOT YET COMPLETE: session-03/11_OUTSIDE_THE_BOX_MODELS.md
 - NOT YET COMPLETE: session-03/12_TEST_PORTFOLIO.md
@@ -37,3 +37,4 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - Session 03 checkpoint 6: rank four Vallejo-area architectures
 - Session 03 checkpoint 7: document observed local candidate pools and research limits
 - Session 03 checkpoint 8: record California sector and post-exit screening
+- Session 03 checkpoint 9: model five concepts through staffing and cash shocks
