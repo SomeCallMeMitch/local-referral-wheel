@@ -10,7 +10,7 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - COMPLETE: session-03/01_ORIGINAL_MODEL_RECONSTRUCTION.md
 - COMPLETE: session-03/02_BUSINESS_MODEL_PORTFOLIO.md
 - COMPLETE: session-03/03_HYBRID_PRICING_MODELS.md
-- NOT YET COMPLETE: session-03/04_SCENARIO_STRESS_TESTS.md
+- COMPLETE: session-03/04_SCENARIO_STRESS_TESTS.md
 - NOT YET COMPLETE: session-03/05_FATAL_FLAWS_AND_MITIGATIONS.md
 - NOT YET COMPLETE: session-03/06_LOCAL_WHEEL_ARCHITECTURES.md
 - NOT YET COMPLETE: session-03/07_LOCAL_MARKET_REALITY_CHECK.md
@@ -32,3 +32,4 @@ Session 03 supersedes conflicting Session 02 recommendations. Session 02 remains
 - Session 03 checkpoint 1: preserve assignment and reconstruct historical value
 - Session 03 checkpoint 2: compare ten configurations and distinct buyer jobs
 - Session 03 checkpoint 3: rank sixteen payment structures and challenge long tails
+- Session 03 checkpoint 4: fifty scenario branches and verified tail arithmetic
