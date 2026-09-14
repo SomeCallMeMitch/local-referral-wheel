@@ -1,3 +1,5 @@
+> **Session 5 supersedes earlier preference weighting below.** CRM is founder-operated; portal use optional; conversations brief and weekly/adaptable; intended income commission-funded, not monthly participation fees; low urgency and little employee management preferred. See [Session 5](SESSION_05_SUMMARY.md) and [current handoff](CONTINUE_HERE.md). All work remains evaluation only.
+
 # Session 4 summary — business options, including standalone software
 
 Completed 2026-09-13. Repository: SomeCallMeMitch/local-referral-wheel. **No model selected. No implementation or real-world testing is within this project's scope.** Testing means hypothetical scenarios, simulations and economic stress tests. Prior rankings are analyst opinions, not founder decisions. This summary and CONTINUE_HERE.md govern over conflicting historical instructions.

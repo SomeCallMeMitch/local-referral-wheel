@@ -1,3 +1,5 @@
+> **Session 5 correction (2026-09-13):** FRAP public offers establish an advertised operator model, not audited demand or leader earnings. The claim below that it demonstrates demand is superseded. The old intro1 link failed; current official pages are covered in [FRAP analysis](session-05/02_CASH_FRAP_AND_SELLING_THE_BUSINESS.md). Its member-fee model differs from the intended commission-funded network. See [current handoff](CONTINUE_HERE.md) for evaluation-only scope.
+
 # 03 --- Competitive and Adjacent Models
 
 ## FRAP Chapters

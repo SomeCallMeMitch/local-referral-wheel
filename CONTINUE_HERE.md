@@ -1,50 +1,58 @@
-# Continue here — Session 4 completed
+# Continue here — Session 5 completed: commission networks and sale paths
 
-Updated 2026-09-13. Repository: SomeCallMeMitch/local-referral-wheel. No prior conversation or account memory required.
+Updated 2026-09-13. Repository: SomeCallMeMitch/local-referral-wheel. Portable across accounts; no previous conversation required.
 
-## Governing purpose and authority
+## Governing scope
 
-This project evaluates and creates business options so the founder can understand what he could build and operate. All testing means hypothetical situations, simulations, scenario analysis and economic stress tests. Real-world pilots, outreach, interviews, deposits, customer recruitment and launch preparation are outside this project's scope—not merely postponed. Do not make those activities a next step.
+This project evaluates and creates business options. All testing means hypothetical situations, simulations, scenario analysis and economic stress tests. Real-world pilots, outreach, interviews, deposits, customer recruitment and launch preparation are outside scope—not merely postponed. No business has been finally selected. No implementation is authorized. These rules override conflicting historical documents.
 
-No business model has been selected. Session 3 rankings are provisional analyst opinions. Partnership transition is one candidate, not the chosen direction. Standalone software must be explored alongside services and networks without requiring prior service operation or validation. Conceptual product design and hypothetical economics are sufficient; no implementation is authorized.
+The latest message authorizes further conceptual development and repository preservation. Session 5 is complete. Continue its concrete concepts when the founder requests; do not restart a generic option list or begin real-world activity.
 
-This direction overrides all conflicting historical assignments, pilot plans, build gates, summaries and recommendations. Historical instructions to run paid tests, obtain interviews, recruit partners or operate a service before considering SaaS are inactive. Documents retained for history are reference material, not a work queue.
+## Latest preferences — preserve accurately
 
-## Read next
+- CRM principally for founder tracking and showing pending/closed/paid deals. Partners need not use it regularly. Optional lead-submission portal; email and conversation updates acceptable.
+- Brief weekly partner conversations, adjusted as needed. Above three partners, separate conversations with productive pairings may make sense. No all-to-all or mandatory monthly group cadence.
+- Low four- to five-figure monthly income intended through commissions, not monthly participation fees. Exact amount and gross/pre-tax/after-tax meaning unconfirmed; $3k/$6k/$10k are examples.
+- Right partners might generate income quickly: model timing, do not treat as established demand.
+- Unpaid development time available; cash budget unknown. Do not carry external-SaaS startup costs into an internal tracker or treat imputed salary as cash spent.
+- Mutual local networks feel like the easiest starting context to the founder. Vallejo and surrounding actual service areas matter; no industry selected.
+- Little urgent support or employee management desired. Planned introductions fit better than emergency dispatch. Staff not presumed necessary.
+- Interested in getting a project going, selling it and moving on, perhaps eventually packaging a system like FRAP. Compare operating-business sale, system/license sale and finite setup service; meaning remains open.
+- Limited account usage; save reasoning and results for another account. Avoid vague labels and repeated answered preference questions.
 
-1. [Session 4 summary](SESSION_04_SUMMARY.md): main comparison, conditional possibilities, ranking changes, proposed research sessions and preference questions.
-2. [Session 4 assignment](session-04/00_ASSIGNMENT.md): governing scope and exact requested evaluation.
-3. [Option space and comparison](session-04/01_OPTION_SPACE_AND_COMPARISON.md).
-4. [Standalone and combined software](session-04/02_SOFTWARE_BUSINESSES.md).
-5. [Hypothetical economics and scenarios](session-04/03_HYPOTHETICAL_ECONOMICS_AND_SCENARIOS.md).
-6. [Evidence and future desk research](session-04/04_EVIDENCE_AND_RESEARCH.md).
-7. [Completion and verification record](session-04/05_COMPLETION_RECORD.md).
+Standalone software remains an independent option from Session 4 with no prior-service prerequisite. New preferences make internal software and commission-operated networks more central now, without choosing a final model.
 
-## Founder preferences versus assumptions
+## Read in order
 
-The founder wants to be a connector and ongoing relationship operator, prefers small connected groups, prioritizes participating-business profitability, and is based in Vallejo with surrounding cities relevant to local concepts. Geography is not automatically a restriction on SaaS, remote B2B services or licensing. Receiving firms generally paying deal-related fees does not require every other product to use that payer.
+1. [Session 5 summary](SESSION_05_SUMMARY.md).
+2. [Verbatim clarification](session-05/00_FOUNDER_DIRECTION.md).
+3. [Concrete networks and economics](session-05/01_CONCRETE_COMMISSION_NETWORKS.md).
+4. [Cash, FRAP and sale analysis](session-05/02_CASH_FRAP_AND_SELLING_THE_BUSINESS.md).
+5. [Session 4 summary](SESSION_04_SUMMARY.md) for the broader portfolio; its preference weighting is superseded.
+6. [Session 4 evidence](session-04/04_EVIDENCE_AND_RESEARCH.md), original blueprint and historical research as relevant.
 
-The historical e-commerce pairing generated founder-reported deals and weakened after delegation; outcomes, margins and causes are unaudited. No fixed fee, income target, time budget, capital budget or final model selected. Session 4 prices, hours, churn, acquisition and development estimates are invented assumptions. $50/hour is an analyst comparison input, not the founder's required pay.
+## Current developed alternatives
 
-Use descriptive business names: model letters changed between earlier sessions. Payment structures and expansion paths are not separate businesses.
+Local B2B recurring-service network: fewer potentially larger fees, planned relationship work, uncertain source fit and collection delay. Planned local home-service network: tangible/local, but fee budgets, transaction volume and contractor screening matter. Selected-pair portfolio: several productive relationships with separate brief conversations and recipient commissions, without artificial group-wide reciprocity.
 
-## Current conclusions, conditional only
+These are market/operating configurations of the same core business, not new businesses based on pricing changes. No monthly fees rescue their core economics. Separately compare selling an operation to a successor versus selling/licensing its original system to other connectors; the latter is the relevant FRAP packaging analogy. Finite setup delivery is a third sale meaning, not an assumed choice.
 
-- One-buyer partner management is a strong ongoing-service fit; concentration and delegation economics remain concerns.
-- Anchor/supplier ecosystems handle unequal flows well; mutual wheels better preserve a small reciprocal connector role. No universal network winner.
-- Finite activation/transition/installation projects remain serious alternatives; repeated selling and role fit remove their automatic first place.
-- Cross-company handoff receipts, independent-operator workbench and multi-location continuity deserve software development of the concept now. Existing products and CRMs remain strong substitutes.
-- Basic group-directory/referral SaaS faces close inexpensive competitors. AI assistance and fee administration require narrower justifications.
-- Software with separately priced bounded operations can work conceptually; count support, acquisition and fixed product costs. Existing licensed software is a valid combined option.
+## Numbers and evidence
 
-## Status and stopping point
+All Session 5 fees, volumes, costs, conversion, workload and sale/license examples are invented. Five $1,500 collected fees yield $7,500 gross and $7,075 after assumed $200 overhead plus 3% processing, before personal tax and without founder-salary deduction. Fee affordability and permissibility are separate from operator return.
 
-Session 4 assignment, full comparison, eight software concepts, hypothetical scenarios, evidence register and summary are complete. Earlier Session 2/3 research is preserved with scope corrections. No business selected, software product built, customer activity conducted or launch preparation advanced.
+Earlier roughly $58k software shortfall includes valued unpaid labor and external-SaaS acquisition/product costs. It is NOT a required cash budget for an internal CRM. Partner logins are NOT a prerequisite; accurate eligible outcome/payment updates still matter.
 
-Stop after reporting the evaluation. Do not start Session 5 automatically. If the founder requests continuation, proposed future sessions cover software/substitute analysis, connector/network design, preference-based economics, targeted desk research and a portfolio review. They do not culminate automatically in testing or launch.
+FRAP public chapter/certification pages were reviewed; intro1 failed. Public offers establish advertised structure, not audited earnings/demand. Its member-fee model differs from this commission model. No proprietary content copied, enrollment or inquiry submitted.
 
-## Repository continuity
+## Next conceptual work when requested
 
-Inspect current branch and remote HEAD before editing; preserve concurrent work. The latest commit touching this file is the checkpoint. Read git history for prior versions and Session 3's checkpoint log. Stage only intended documents, review changes, and integrate remote advances without discarding them. Never write credentials into the repository. Files under the enclosing project's sources/ are read-only references.
+Develop three fictional partner portfolios: B2B recurring services, planned home services and selected pairs. Specify who knows which customers, trigger frequency, source benefit, recipient costs/retained profit, affordable commission interval, brief weekly work and collected cash under fast/slow/uneven cases. Compare keeping the operation with selling it or its system. No real prospect lists, recruitment, outreach, actual contracts, build or launch preparation.
 
-Public sources establish advertised products and applicable screening issues, not local demand, willingness to pay or actual software quality. Keep founder report, provider/regulator evidence, inference and hypothetical numbers distinct. The limits of desk research are explicitly retained rather than used to propose out-of-scope customer testing.
+Most important preference: what does selling mean? An asynchronous question offered operating network/business, system/license, or finite setup; no answer had arrived at this checkpoint. Absence of an answer selects nothing. Exact income basis, category interest and cash/personal runway are also unresolved. Do not re-ask answered CRM, monthly-fee or support/employee preferences.
+
+## Continuity and stopping point
+
+Session 5 analysis and summary, handoff, README, Session 4 preference notice and FRAP correction are complete. Inspect branch and remote HEAD before editing, preserve concurrent work and push intended documents. Latest commit touching this file is the checkpoint. Never store credentials. Enclosing sources/ files are read-only and untouched.
+
+No business selected, product built, customer contacted or real-world testing advanced. Stop after delivering this evaluation; future work is not an automatic march toward launch.
