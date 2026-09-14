@@ -54,7 +54,7 @@ FRAP public chapter/certification pages were reviewed; intro1 failed. Public off
 
 ## Next research when requested
 
-Use the exact prompt in `session-06/02_DEEP_RESEARCH_PROMPT_FOR_NEXT_CHAT.md`. Deep-audit original review pages for the proposed trio and alternatives, including every accessible low-star review; verify owners, service area, licensing and public business status; map pairwise triggers; and compare home-refresh, home-transition and event clusters. Keep legal permissibility as a gate separate from review quality. Public research and official business-contact identification are authorized; contact is not.
+The founder will start two chats. Use `session-06/03_PROMPT_CALIFORNIA_LEGAL_STRUCTURE.md` for the California legal/payment analysis and `session-06/04_PROMPT_BENICIA_CONTRACTOR_DEEP_DIVE.md` for the contractor-quality search. The earlier combined prompt is superseded. The legal question comes first analytically; the contractor chat may run concurrently but cannot assume commissions are lawful. Each prompt assigns separate repository files to reduce concurrent-edit conflicts. Public research and official business-contact identification are authorized; contact is not.
 
 Most important preference: what does selling mean? An asynchronous question offered operating network/business, system/license, or finite setup; no answer had arrived at this checkpoint. Absence of an answer selects nothing. Exact income basis, category interest and cash/personal runway are also unresolved. Do not re-ask answered CRM, monthly-fee or support/employee preferences.
 

@@ -1,5 +1,7 @@
 # Prompt for the next chat: deep Benicia partner research
 
+> **Superseded on 2026-09-14:** The founder chose to split this combined assignment into two concurrent chats. Use [the California legal-structure prompt](03_PROMPT_CALIFORNIA_LEGAL_STRUCTURE.md) and [the Benicia contractor deep-dive prompt](04_PROMPT_BENICIA_CONTRACTOR_DEEP_DIVE.md) instead. This original combined prompt remains as historical context.
+
 Copy the prompt below into the next account/chat. It is written to be self-contained after the repository is opened.
 
 ---
@@ -166,4 +168,3 @@ Save all work in the repository, update `CONTINUE_HERE.md`, create the session s
 Stop after the research and hypothetical comparison. Do not contact anyone, recruit partners, recommend that a pilot be the next step, choose the business for the founder, draft contracts, build software or initiate real-world testing.
 
 ---
-

@@ -31,7 +31,11 @@ This is not yet a cleared commission network. CSLB explicitly warns that contrac
 
 ## Continuation
 
-The next account should use the ready prompt, audit original review pages and all accessible low-star reviews, verify owners/licenses/business status, score both quality and confidence, map pairwise referrals, and separate service fit from legal payment fit. It may identify public owners and official business contact channels but must not contact anyone.
+The founder decided that California legal structure must be clarified first and will start two research chats. The former combined prompt is superseded by:
+
+- [California legal-structure prompt](session-06/03_PROMPT_CALIFORNIA_LEGAL_STRUCTURE.md)
+- [Benicia contractor deep-dive prompt](session-06/04_PROMPT_BENICIA_CONTRACTOR_DEEP_DIVE.md)
+
+The legal chat determines which payment and operating structures are green, conditional or red. The contractor chat audits service quality and relationship fit without assuming that commissions are lawful. They have separate file ownership and rebase instructions so they can run concurrently without overwriting each other. Both may identify public owners and official business contact channels but must not contact anyone.
 
 The founder has not selected a business or authorized outreach, recruiting, implementation or real-world testing. This research does not establish demand, partner appetite or commission availability.
-

@@ -1,4 +1,4 @@
-> **Latest checkpoint: [Session 6](SESSION_06_SUMMARY.md).** Basic public-source screening of real Benicia contenders, review/service evidence, contractor-commission legal gate and a ready prompt for the next account’s deep review audit. Read [CONTINUE_HERE](CONTINUE_HERE.md) before resuming on another account.
+> **Latest checkpoint: [Session 6](SESSION_06_SUMMARY.md).** Basic Benicia screening plus separate ready prompts for California legal-structure research and a concurrent contractor deep dive. Read [CONTINUE_HERE](CONTINUE_HERE.md) before resuming on another account.
 
 # Local Referral Wheel — business-option evaluation
 
