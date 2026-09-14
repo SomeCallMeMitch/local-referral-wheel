@@ -1,12 +1,18 @@
-# Continue here — Session 5 completed: commission networks and sale paths
+# Continue here — Session 6 completed: basic Benicia contender search
 
-Updated 2026-09-13. Repository: SomeCallMeMitch/local-referral-wheel. Portable across accounts; no previous conversation required.
+Updated 2026-09-14. Repository: SomeCallMeMitch/local-referral-wheel. Portable across accounts; no previous conversation required.
 
 ## Governing scope
 
 This project evaluates and creates business options. All testing means hypothetical situations, simulations, scenario analysis and economic stress tests. Real-world pilots, outreach, interviews, deposits, customer recruitment and launch preparation are outside scope—not merely postponed. No business has been finally selected. No implementation is authorized. These rules override conflicting historical documents.
 
-The latest message authorizes further conceptual development and repository preservation. Session 5 is complete. Continue its concrete concepts when the founder requests; do not restart a generic option list or begin real-world activity.
+The founder specifically authorized public research on actual Benicia-area contenders. That authorization overrides the earlier ban on prospect lists for this research task only. It does not authorize contacting, recruiting, interviewing or representing anything to a business. Public owner/decision-maker identification is permitted for assessment and possible later consideration. Session 6 is complete; do not restart the basic search.
+
+## Latest finding — preserve accurately
+
+The strongest initial service/client-care cluster is Home Living Window Fashions (Shem and Melody Isaac), Benicia Floor Company (Wayne and Judy Bottini) and Solano Painting Bros (Sal A. Sammartino publicly identified as general partner). They provide complementary window-treatment, flooring and painting work and have public review themes around guidance, communication, careful work and follow-through. This is a research hypothesis, not an endorsement or partner selection.
+
+There is a serious payment-model gate. All three appear to perform licensed home-improvement work. CSLB explicitly warns that contractor referral/kickback fees can violate Business and Professions Code §7157. CSLB also says a registered Home Improvement Salesperson may represent multiple contractor employers after each files the required notice. Do not translate that possible regulated sales-employment path into permission for informal commissions. Research the current rules and obtain appropriate professional interpretation before modeling those commissions as available.
 
 ## Latest preferences — preserve accurately
 
@@ -24,12 +30,13 @@ Standalone software remains an independent option from Session 4 with no prior-s
 
 ## Read in order
 
-1. [Session 5 summary](SESSION_05_SUMMARY.md).
-2. [Verbatim clarification](session-05/00_FOUNDER_DIRECTION.md).
-3. [Concrete networks and economics](session-05/01_CONCRETE_COMMISSION_NETWORKS.md).
-4. [Cash, FRAP and sale analysis](session-05/02_CASH_FRAP_AND_SELLING_THE_BUSINESS.md).
-5. [Session 4 summary](SESSION_04_SUMMARY.md) for the broader portfolio; its preference weighting is superseded.
-6. [Session 4 evidence](session-04/04_EVIDENCE_AND_RESEARCH.md), original blueprint and historical research as relevant.
+1. [Session 6 summary](SESSION_06_SUMMARY.md).
+2. [Founder’s Session 6 request and scope](session-06/00_FOUNDER_REQUEST_AND_SCOPE.md).
+3. [Basic Benicia contender screen](session-06/01_BASIC_BENICIA_CONTENDER_SCREEN.md).
+4. [Ready deep-research prompt](session-06/02_DEEP_RESEARCH_PROMPT_FOR_NEXT_CHAT.md).
+5. [Session 5 summary](SESSION_05_SUMMARY.md) and its detailed documents.
+6. [Session 4 summary](SESSION_04_SUMMARY.md) for the broader portfolio; its preference weighting is superseded.
+7. [Session 4 evidence](session-04/04_EVIDENCE_AND_RESEARCH.md), original blueprint and historical research as relevant.
 
 ## Current developed alternatives
 
@@ -45,9 +52,9 @@ Earlier roughly $58k software shortfall includes valued unpaid labor and externa
 
 FRAP public chapter/certification pages were reviewed; intro1 failed. Public offers establish advertised structure, not audited earnings/demand. Its member-fee model differs from this commission model. No proprietary content copied, enrollment or inquiry submitted.
 
-## Next conceptual work when requested
+## Next research when requested
 
-Develop three fictional partner portfolios: B2B recurring services, planned home services and selected pairs. Specify who knows which customers, trigger frequency, source benefit, recipient costs/retained profit, affordable commission interval, brief weekly work and collected cash under fast/slow/uneven cases. Compare keeping the operation with selling it or its system. No real prospect lists, recruitment, outreach, actual contracts, build or launch preparation.
+Use the exact prompt in `session-06/02_DEEP_RESEARCH_PROMPT_FOR_NEXT_CHAT.md`. Deep-audit original review pages for the proposed trio and alternatives, including every accessible low-star review; verify owners, service area, licensing and public business status; map pairwise triggers; and compare home-refresh, home-transition and event clusters. Keep legal permissibility as a gate separate from review quality. Public research and official business-contact identification are authorized; contact is not.
 
 Most important preference: what does selling mean? An asynchronous question offered operating network/business, system/license, or finite setup; no answer had arrived at this checkpoint. Absence of an answer selects nothing. Exact income basis, category interest and cash/personal runway are also unresolved. Do not re-ask answered CRM, monthly-fee or support/employee preferences.
 

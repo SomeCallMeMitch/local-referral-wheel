@@ -1,10 +1,10 @@
-> **Latest checkpoint: [Session 5](SESSION_05_SUMMARY.md).** Concrete commission networks, founder-operated CRM, weekly conversations, cash versus unpaid time, FRAP packaging and sale paths. Read [CONTINUE_HERE](CONTINUE_HERE.md) before resuming on another account.
+> **Latest checkpoint: [Session 6](SESSION_06_SUMMARY.md).** Basic public-source screening of real Benicia contenders, review/service evidence, contractor-commission legal gate and a ready prompt for the next account’s deep review audit. Read [CONTINUE_HERE](CONTINUE_HERE.md) before resuming on another account.
 
 # Local Referral Wheel — business-option evaluation
 
 Current work: [Session 4 summary](SESSION_04_SUMMARY.md) and [portable handoff](CONTINUE_HERE.md). Session 4 compares services, networks, standalone software and combined businesses. No model has been selected.
 
-**Governing scope:** all testing in this project means hypothetical scenarios, simulations and economic stress tests. Real-world pilots, outreach, interviews, deposits, recruitment and launch preparation are outside scope—not merely postponed. Software is an independent option now, without a prior service-business prerequisite. No implementation is authorized. Historical launch plans, test instructions and sequencing below and in older documents are reference material only and are superseded by the current handoff.
+**Governing scope:** all testing in this project means hypothetical scenarios, simulations and economic stress tests. Real-world pilots, outreach, interviews, deposits, recruitment and launch preparation are outside scope—not merely postponed. The founder specifically authorized public research on real Benicia contenders in Session 6; this does not authorize contacting them. Software is an independent option now, without a prior service-business prerequisite. No implementation is authorized. Historical launch plans, test instructions and sequencing below and in older documents are reference material only and are superseded by the current handoff.
 
 ---
 # Referral Growth Network --- Research & Astra Handoff
