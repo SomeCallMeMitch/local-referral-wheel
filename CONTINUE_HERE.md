@@ -1,12 +1,24 @@
-# Continue here — Session 6 completed: basic Benicia contender search
+# Continue here — Session 8 completed: Remington Solar contractor cross-promotion research
 
-Updated 2026-09-14. Repository: SomeCallMeMitch/local-referral-wheel. Portable across accounts; no previous conversation required.
+Updated 2026-09-15. Repository: SomeCallMeMitch/local-referral-wheel. Portable across accounts; no previous conversation required.
 
 ## Governing scope
 
 This project evaluates and creates business options. All testing means hypothetical situations, simulations, scenario analysis and economic stress tests. Real-world pilots, outreach, interviews, deposits, customer recruitment and launch preparation are outside scope—not merely postponed. No business has been finally selected. No implementation is authorized. These rules override conflicting historical documents.
 
 The founder specifically authorized public research on actual Benicia-area contenders. That authorization overrides the earlier ban on prospect lists for this research task only. It does not authorize contacting, recruiting, interviewing or representing anything to a business. Public owner/decision-maker identification is permitted for assessment and possible later consideration. Session 6 is complete; do not restart the basic search.
+
+Session 7 completed the deep Benicia contractor evaluation. Session 8 completed public research on a separate national vendor-to-contractor cross-promotion option centered on Remington Solar. Neither session authorizes outreach, applications, partner recruitment, list access, kit requests, campaigns, or real-world tests.
+
+## Latest addition — national contractor cross-promotion option
+
+Session 8 found that the cleaner version of the Remington idea is not a contractor-list purchase or exchange. It is a permissioned B2B campaign in which each vendor retains custody of its contacts, sends to its own audience, and shares only data affirmatively submitted by interested contractors through a clearly identified landing page.
+
+Roofr, JobNimbus, RoofTalk, RainDrop Gutter Guard and BirdBlocker are the strongest provisional candidates based on audience overlap and public partnership mechanisms. RoofersCoffeeShop is the leading paid validation-channel hypothesis. These are research rankings, not founder selections or proof of commercial interest.
+
+Fixed campaign-management, sponsorship and reciprocal-placement models are conceptually cleaner than compensation tied to homeowner outcomes. This is not legal clearance. Dealer-activation or affiliate compensation still needs fact-specific review, and homeowner appointment, contract, project-price, payment and contractor-selection compensation remain outside the proposed initial structure.
+
+Product substantiation is a separate gate. DOE and ENERGY STAR cautions about powered attic ventilation mean a future partner should not repeat broad savings, moisture or HVAC claims without evidence tied to the product, climate, attic, intake ventilation, air sealing and installation conditions.
 
 ## Latest finding — preserve accurately
 
@@ -30,17 +42,19 @@ Standalone software remains an independent option from Session 4 with no prior-s
 
 ## Read in order
 
-1. [Session 6 summary](SESSION_06_SUMMARY.md).
-2. [Founder’s Session 6 request and scope](session-06/00_FOUNDER_REQUEST_AND_SCOPE.md).
-3. [Basic Benicia contender screen](session-06/01_BASIC_BENICIA_CONTENDER_SCREEN.md).
-4. [Ready deep-research prompt](session-06/02_DEEP_RESEARCH_PROMPT_FOR_NEXT_CHAT.md).
-5. [Session 5 summary](SESSION_05_SUMMARY.md) and its detailed documents.
-6. [Session 4 summary](SESSION_04_SUMMARY.md) for the broader portfolio; its preference weighting is superseded.
-7. [Session 4 evidence](session-04/04_EVIDENCE_AND_RESEARCH.md), original blueprint and historical research as relevant.
+1. [Session 8 Remington cross-promotion summary](SESSION_08_REMINGTON_SUMMARY.md).
+2. [Full Remington cross-promotion research](session-08-remington/01_REMINGTON_SOLAR_CROSS_PROMOTION_RESEARCH.md).
+3. [Session 7 Benicia contractor summary](SESSION_07_CONTRACTOR_SUMMARY.md).
+4. [Session 6 summary](SESSION_06_SUMMARY.md).
+5. [Founder’s Session 6 request and scope](session-06/00_FOUNDER_REQUEST_AND_SCOPE.md).
+6. [Basic Benicia contender screen](session-06/01_BASIC_BENICIA_CONTENDER_SCREEN.md).
+7. [Session 5 summary](SESSION_05_SUMMARY.md) and its detailed documents.
+8. [Session 4 summary](SESSION_04_SUMMARY.md) for the broader portfolio; its preference weighting is superseded.
+9. [Session 4 evidence](session-04/04_EVIDENCE_AND_RESEARCH.md), original blueprint and historical research as relevant.
 
 ## Current developed alternatives
 
-Local B2B recurring-service network: fewer potentially larger fees, planned relationship work, uncertain source fit and collection delay. Planned local home-service network: tangible/local, but fee budgets, transaction volume and contractor screening matter. Selected-pair portfolio: several productive relationships with separate brief conversations and recipient commissions, without artificial group-wide reciprocity.
+Local B2B recurring-service network: fewer potentially larger fees, planned relationship work, uncertain source fit and collection delay. Planned local home-service network: tangible/local, but fee budgets, transaction volume and contractor screening matter. Selected-pair portfolio: several productive relationships with separate brief conversations and recipient commissions, without artificial group-wide reciprocity. National contractor cross-promotion network: vendors promote complementary offers to their own contractor audiences without raw-list transfer; potentially broader and cleaner at the data layer, but partner willingness, audience quality, product claims, activation economics and compensation legality are unproven.
 
 These are market/operating configurations of the same core business, not new businesses based on pricing changes. No monthly fees rescue their core economics. Separately compare selling an operation to a successor versus selling/licensing its original system to other connectors; the latter is the relevant FRAP packaging analogy. Finite setup delivery is a third sale meaning, not an assumed choice.
 
@@ -54,12 +68,14 @@ FRAP public chapter/certification pages were reviewed; intro1 failed. Public off
 
 ## Next research when requested
 
-The founder will start two chats. Use `session-06/03_PROMPT_CALIFORNIA_LEGAL_STRUCTURE.md` for the California legal/payment analysis and `session-06/04_PROMPT_BENICIA_CONTRACTOR_DEEP_DIVE.md` for the contractor-quality search. The earlier combined prompt is superseded. The legal question comes first analytically; the contractor chat may run concurrently but cannot assume commissions are lawful. Each prompt assigns separate repository files to reduce concurrent-edit conflicts. Public research and official business-contact identification are authorized; contact is not.
+The Benicia contractor deep dive is complete in Session 7. The California legal/payment analysis remains the principal unresolved dependency for contractor-related compensation. Use `session-06/03_PROMPT_CALIFORNIA_LEGAL_STRUCTURE.md` as its original assignment unless newer legal deliverables have been committed. Do not restart completed Session 7 or Session 8 research.
+
+When strategic synthesis is next requested, compare the national contractor cross-promotion option neutrally against the local selected-pair and network options. Do not infer that national scale, a public partner page or reduced list-sharing risk proves partner demand, product efficacy, lawful compensation or superior founder fit.
 
 Most important preference: what does selling mean? An asynchronous question offered operating network/business, system/license, or finite setup; no answer had arrived at this checkpoint. Absence of an answer selects nothing. Exact income basis, category interest and cash/personal runway are also unresolved. Do not re-ask answered CRM, monthly-fee or support/employee preferences.
 
 ## Continuity and stopping point
 
-Session 5 analysis and summary, handoff, README, Session 4 preference notice and FRAP correction are complete. Inspect branch and remote HEAD before editing, preserve concurrent work and push intended documents. Latest commit touching this file is the checkpoint. Never store credentials. Enclosing sources/ files are read-only and untouched.
+Sessions 7 and 8 are documented; Session 8 updated this handoff and README. Inspect branch and remote HEAD before editing, preserve concurrent work and push intended documents. Latest commit touching this file is the checkpoint. Never store credentials. Enclosing sources/ files are read-only and untouched.
 
 No business selected, product built, customer contacted or real-world testing advanced. Stop after delivering this evaluation; future work is not an automatic march toward launch.
